@@ -1,0 +1,18 @@
+{
+	"name": "fuller-markdown",
+	"version": "0.3.0",
+	"license" : "MIT",
+	"description": "Fuller tool: markdown to html converter",
+	"keywords": ["static", "fuller", "html", "markdown", "highlight"],
+	"author": "Alexey Novikov (http://2dubs.com)",
+	"dependencies": {
+		"marked":		"^0.3.0",
+		"highlight.js": "^9.0.0",
+		"unidecode": 	"^0.1.3"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:fullerjs/fuller-markdown.git"
+	},
+	"main": ".index"
+}
